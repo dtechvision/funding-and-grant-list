@@ -32,9 +32,13 @@ If you are a project providing funding and would love to be added, please [creat
 #### Retroactive Grants
 
 - [Purple DAO: Farcaster project funding](https://warpcast.com/~/channel/purple) - Date added: 2024-08-28
+  - who is eligible: Anyone who proliferates and expands the Farcaster protocol and ecosystem.
+  - where to apply: Watch for Funding Rounds in https://warpcast.com/~/channel/purple
 
 ### Donations
 
 ### Crowd Funding, Subscriptions and others
 
 - [Hypersub - Subscription Protocol to collect subscription money](https://www.hypersub.xyz/) - Date added: 2024-08-28
+  - who is eligible: Anyone can create a Hypersub
+  - where to apply: No application, just create a hypersub and share with people so they can choose to subscribe
