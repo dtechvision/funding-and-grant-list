@@ -17,6 +17,8 @@ Are you a
 
 If you are a project providing funding and would love to be added, please [create a pull request](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request), we'll review your submission and add you.
 
+Nice article explaining [how to apply for and find grants](https://chones.xyz/2024/08/21/hunt-apply-and-campaign-for-dao-grants/)
+
 ## Funding Sources requiring equity
 
 ### Accelerators
