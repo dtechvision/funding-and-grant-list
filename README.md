@@ -31,6 +31,8 @@ Nice article explaining [how to apply for and find grants](https://chones.xyz/20
 
 ### Grants
 
+- [Charmverse Grant Calendar/List](https://app.charmverse.io/grants-tracker/)
+
 #### Retroactive Grants
 
 - [Purple DAO: Farcaster project funding](https://warpcast.com/~/channel/purple) - Date added: 2024-08-28
