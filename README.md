@@ -24,6 +24,7 @@ Nice article explaining [how to apply for and find grants](https://chones.xyz/20
 ### Accelerators
 
 ### Venture Funds
+- [ZK Prime Capital — full-cycle AI/web3 fund: grant → incubation → token launch](https://zkprime-capital.xyz/) - Date added: 2026-09-16
 
 ### Angel Investments
 
@@ -32,6 +33,7 @@ Nice article explaining [how to apply for and find grants](https://chones.xyz/20
 ### Grants
 
 - [Charmverse Grant Calendar/List](https://app.charmverse.io/grants-tracker/)
+- [ZK Prime Capital Grants — $5K–$75K for on-chain AI, DeFAI & ZK infrastructure, no equity taken](https://zkprime-capital.xyz/grants/) - Date added: 2026-09-16
 
 #### Retroactive Grants
 
